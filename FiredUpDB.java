@@ -1,4 +1,3 @@
-package edu.pcc.cis233j.jdbctutorial;
 
 
 import java.sql.*;
